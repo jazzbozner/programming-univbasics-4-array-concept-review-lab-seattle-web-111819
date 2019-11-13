@@ -9,7 +9,7 @@ end
 
 def find_max_value(array)
   array.sort!
-  p array.last
+  puts array.last
 end
 
 
